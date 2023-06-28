@@ -1,0 +1,12 @@
+
+TEMPO iter :: 1
+TEMPO iter2 :: 1
+
+Si (iter e iter2) es Consonante
+    play(3)
+    play(1)
+No ser Disonante
+    * i $ [1:1:10] *
+        play(i)
+    *
+
